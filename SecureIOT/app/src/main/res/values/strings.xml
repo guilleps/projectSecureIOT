@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SecureIOT</string>
+
+    <!-- Home -->
+    <string name="tittle_home">SECUREIOT</string>
+    <string name="content_home">Protege y controla tu casa en tiempo real, con la tranquilidad que mereces</string>
+    <string name="button_home">Comenzar</string>
+
+    <!-- Login -->
+    <string name="title_login">Iniciar Sesión</string>
+    <string name="subtitle_login">¡Bienvenido!</string>
+    <string name="content_login">Accede para controlar y proteger tu hogar de manera fácil y segura.</string>
+    <string name="email_placeholder">Correo Electrónico</string>
+    <string name="password_placeholder">Contraseña</string>
+    <string name="button_login">Ingresar</string>
+
+    <!-- Login -->
+    <string name="button_door">Puertas</string>
+    <string name="button_light">Luces</string>
+    <string name="button_cam">Cámara</string>
+    <string name="button_alarm">Alarma</string>
+    <string name="button_control">Controles</string>
+
+    <!-- Door -->
+    <string name="button_close_all_door">Cerrar Todo</string>
+    <string name="button_open_all_door">Abrir Todo</string>
+    <string name="message_close_door">(Cerrado)</string>
+    <string name="message_open_door">(Abierto)</string>
+    <string name="button_open_door">Abrir</string>
+    <string name="button_close_door">Cerrar</string>
+
+    <!-- Lights -->
+    <string name="button_off_all_light">Apagar Todo</string>
+    <string name="button_on_all_light">Prender Todo</string>
+    <string name="message_on">(Prendido)</string>
+    <string name="message_off">(Apagado)</string>
+    <string name="button_on">Prender</string>
+    <string name="button_off">Apagar</string>
+
+    <!-- Control -->
+    <string name="message_security_total">Seguridad Total</string>
+    <string name="message_deactivate">(Desactivado)</string>
+    <string name="message_activate">(Activado)</string>
+    <string name="button_deactivate">Desactivar</string>
+    <string name="button_activate">Activar</string>
+
+    <!-- Control Log -->
+    <string name="log_title">Registro Inteligente</string>
+
+    <!-- Camera connection -->
+    <string name="try_connection">Conectando a la camara...</string>
+    <string name="device_disconnected_availability">Cámara no disponible o desconectada.</string>
+    <string name="transmission_failed">Transmisión fallida</string>
+</resources>
