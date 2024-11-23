@@ -1,0 +1,11 @@
+<div class="h-full w-screen flex flex-col lg:flex-row items-center justify-center"> <!-- div padre -->
+  <div class="w-full h-[20%] lg:w-[20%] lg:h-full flex-none"> <!-- div hijo 1 -->
+    <app-sidebar
+      [currentSection]="currentSection"
+      (sectionSelected)="onSectionSelected($event)"
+    />
+  </div>
+  <div class="w-full h-[80%] lg:w-[80%] lg:h-full flex-grow"> <!-- div hijo 2 -->
+    <router-outlet />
+  </div>
+</div>
