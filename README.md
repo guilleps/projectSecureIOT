@@ -1,4 +1,4 @@
-# Project SecureIOT
+# SecureIOT
 
 ## Recursos del proyecto
 
